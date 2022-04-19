@@ -13,4 +13,4 @@
   * MLP (relu activation function, adam solver)
 * Both Random Forest and MLP gave best performance with an ROC-AUC score of 0.99
 
-ML credits : towardsdatascience.com
+
